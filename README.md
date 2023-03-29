@@ -1,1 +1,1 @@
-Simple page which add remove edit the subject name by using javaScript
+Simple page which add , remove and edit the subject name by using javaScript
